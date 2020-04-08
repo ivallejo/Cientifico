@@ -1,4 +1,4 @@
-const home = () => {
+const Home = () => {
     const view = `
     <div class="characters">
         <articule class="character-item">
